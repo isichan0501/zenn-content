@@ -3,7 +3,7 @@ title: "GitHub Trendingで見えたAIエージェント運用基盤の4層"
 emoji: "🧭"
 type: "tech"
 topics: ["ai", "agent", "github", "security", "llm"]
-published: true
+published: false
 ---
 
 2026年8月6日のGitHub Trendingでは、AIエージェント関連のリポジトリが目立ちました。上位には、チームで知識を再利用するメモリ基盤、長期タスクの状態管理、エージェント向け実行環境、企業向けの監視・防御が並んでいます。

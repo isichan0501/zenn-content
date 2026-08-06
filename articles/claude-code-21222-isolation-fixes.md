@@ -3,7 +3,7 @@ title: "Claude Code 2.1.222の隔離修正から見直すworktree運用"
 emoji: "🛡️"
 type: "tech"
 topics: ["claudecode", "ai", "security", "git", "agent"]
-published: true
+published: false
 ---
 
 2026年8月4日に公開されたClaude Code v2.1.222では、worktreeで隔離したセッションやサブエージェントから、メインのチェックアウトに対して破壊的なGitコマンドを実行できた問題が修正されました。あわせて、バックグラウンドタスクで`PreToolUse`の自動許可フックがツール制限を回避できた問題も修正されています。
