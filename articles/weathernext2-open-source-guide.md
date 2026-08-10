@@ -3,7 +3,7 @@ title: "WeatherNext 2公開コードを試す前に知るべき実行コスト"
 emoji: "🌦️"
 type: "tech"
 topics: ["ai", "python", "google", "weather", "github"]
-published: true
+published: false
 ---
 
 2026年8月11日のGitHub Trendingでは、Google DeepMindの[WeatherNext](https://github.com/google-deepmind/weathernext)が確認時点で327 stars todayを集めていました。8月7日にはv0.3.0が公開され、WeatherNext 2（WN2）のモデルコード、設定、Colab notebookが追加されています。
