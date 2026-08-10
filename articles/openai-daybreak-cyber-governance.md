@@ -3,7 +3,7 @@ title: "OpenAI Daybreakを安全に使うための権限設計"
 emoji: "🌅"
 type: "tech"
 topics: ["openai", "ai", "security", "codex", "agent"]
-published: true
+published: false
 ---
 
 2026年8月10日、OpenAIはサイバー防御プログラム「Daybreak」を拡張し、BlueとRedの2段階のアクセス、サイバーセキュリティ特化モデルGPT‑5.6‑Cyber、CodexのAuto-reviewを発表しました。
