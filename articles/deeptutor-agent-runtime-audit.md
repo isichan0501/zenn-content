@@ -3,7 +3,7 @@ title: "DeepTutor v1.5.11から学ぶ学習エージェントの壊れ方"
 emoji: "🎓"
 type: "tech"
 topics: ["ai", "agent", "education", "github", "security"]
-published: true
+published: false
 ---
 
 2026年8月12日のGitHub Trendingでは、学習エージェント[DeepTutor](https://github.com/HKUDS/DeepTutor)が確認時点で829 stars todayを集めていました。
