@@ -3,7 +3,7 @@ title: "MindTopoから学ぶVLM空間推論評価：認識と計画を分ける"
 emoji: "🪢"
 type: "tech"
 topics: ["ai", "vlm", "benchmark", "research", "github"]
-published: true
+published: false
 ---
 
 2026年8月12日、Microsoft Researchは、Vision-Language Model（VLM）のトポロジー理解を測るベンチマーク「MindTopo」を紹介しました。
