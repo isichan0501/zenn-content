@@ -3,7 +3,7 @@ title: "GigaPath-Flashで病理WSI解析を軽量化する前に知ること"
 emoji: "🔬"
 type: "tech"
 topics: ["ai", "medical", "pytorch", "huggingface", "python"]
-published: true
+published: false
 ---
 
 病理のWhole-Slide Image（WSI）は、1枚がgigapixel級になり、数千から数万のtileへ分割して処理します。高性能な病理Foundation Modelがあっても、tile encoderを全tileへ適用する計算量が、大規模cohortでの反復実験を難しくします。
