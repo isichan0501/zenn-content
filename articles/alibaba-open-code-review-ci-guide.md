@@ -3,7 +3,7 @@ title: "OpenCodeReviewをCIへ入れる前に確認する5つの境界"
 emoji: "🔍"
 type: "tech"
 topics: ["ai", "codereview", "githubactions", "security", "go"]
-published: true
+published: false
 ---
 
 2026年9月18日（JST）のGitHub Daily Trendingで、Alibabaの[`open-code-review`](https://github.com/alibaba/open-code-review)が確認時点で3,290 stars todayを集めていました。
